@@ -1,4 +1,4 @@
-# Teste para vaga de estagiário
+# Teste para vaga de estágio
 
 ## Instruções
 - Tente sempre utilizar a abordagem ES6+ para resolver os exercícios;
