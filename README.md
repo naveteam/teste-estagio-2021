@@ -3,7 +3,7 @@
 ## Instruções
 - Tente sempre utilizar a abordagem ES6+ para resolver os exercícios;
 - Os exercícios devem ser realizados no codesandbox, utilizando o template [que pode ser encontrado aqui](https://codesandbox.io/s/teste-estagio-template-mnqlh).
-- Ao finalizar o teste, envie o link do seu repositório por mensagem lá na gupy.
+- Ao finalizar o teste, envie o link do seu codesandbox por mensagem lá na gupy.
 
 
 ## Desafio
